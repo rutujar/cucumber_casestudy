@@ -10,7 +10,7 @@ Then user enters password as "ruturajesh"
 Then user enters cpwd as "ruturajesh"
 Then user enters gender as "female"
 Then user enters email as "rutujarajesh23@gmail.com"
-Then user enters mobile as "9900092471"
+Then user enters mobile as "1234567890"
 Then user enters address as "bangalore"
 Then user enters answer as "bangalore"
 Then Message displayed Login Successfully
